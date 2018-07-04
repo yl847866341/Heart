@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Heart</string>
+    <string name="filter_vcode">0123456789</string>
+    <string name="setting"><u>高级设置</u></string>
+    <string name="sheet_num">凭&#8194;&#8194;证：</string>
+    <string name="left_num">结&#8194;&#8194;存：</string>
 </resources>
