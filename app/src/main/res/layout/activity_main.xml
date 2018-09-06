@@ -9,7 +9,7 @@
         android:layout_width="@dimen/dp_240"
         android:layout_height="@dimen/dp_80"
         android:gravity="center"
-        android:text="袁林"
+        android:text="测试"
         android:textSize="@dimen/sp_24" />
 
     <Button
@@ -17,4 +17,10 @@
         android:layout_height="@dimen/dp_60"
         android:text="点击"
         android:textSize="@dimen/sp_24" />
+
+    <TextView
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/sp_22" />
 </LinearLayout>
